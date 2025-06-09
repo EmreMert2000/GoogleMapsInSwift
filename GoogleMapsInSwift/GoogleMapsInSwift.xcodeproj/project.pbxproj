@@ -208,6 +208,9 @@
 			);
 			mainGroup = D7A5FDB42DF6DB3B00E44B1A;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				D7A5FDEF2DF6E12500E44B1A /* XCRemoteSwiftPackageReference "ios-maps-sdk" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = D7A5FDBE2DF6DB3B00E44B1A /* Products */;
 			projectDirPath = "";
@@ -567,6 +570,17 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		D7A5FDEF2DF6E12500E44B1A /* XCRemoteSwiftPackageReference "ios-maps-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/googlemaps/ios-maps-sdk";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 10.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
 	};
 	rootObject = D7A5FDB52DF6DB3B00E44B1A /* Project object */;
 }
