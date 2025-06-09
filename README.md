@@ -15,8 +15,7 @@ Amacımız, UIKit tabanlı Google Maps SDK’sını SwiftUI projelerine nasıl e
 ---
 
 ## 📸 Ekran Görüntüsü
-
-<img src="https://developers.google.com/maps/documentation/ios-sdk/images/map_default.png" width="300"/>
+<img width="349" alt="Screenshot 2025-06-09 at 13 59 09" src="https://github.com/user-attachments/assets/c55cd1db-16a1-488d-a206-28e5f21f19af" />
 
 > ⚠️ Örnek görsel temsili olarak eklenmiştir.
 
